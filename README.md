@@ -8,7 +8,7 @@
 
 - 👨‍💻 All my projects are available @ [https://shamemportfolio.my.canva.site/hello-i-am-sha](https://shamemportfolio.my.canva.site/hello-i-am-sha)
 
-- 💬 Ask me about **AZURE, SSIS, TABLEAU, KAFKA**
+- 💬 Ask me about -  **AZURE, SSIS, TABLEAU, KAFKA**
 
 - 📫 How to reach me **shamemdeen0801@gmail.com**
 
