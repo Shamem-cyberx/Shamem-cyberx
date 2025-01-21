@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamem-cyberx&label=Profile%20views&color=0e75b6&style=flat" alt="shamem-cyberx" /> </p>
 
-- 🌱 currently learning - **LlamaIndex, Hugging Face, Augmented Analytics**
+- 🌱 currently learning - **AI/ML Deployment Strategies, Multimodal AI Systems, RLHF, Augmented Analytics**
 
 - 👨‍💻 All my projects are available @ [https://shamemportfolio.my.canva.site/hello-i-am-sha](https://shamemportfolio.my.canva.site/hello-i-am-sha)
 
-- 💬 Ask me about -  **AZURE, SSIS, TABLEAU, KAFKA**
+- 💬 Ask me about -  **Gen AI, Llm, RAG**
 
 - 📫 How to reach me **shamemdeen0801@gmail.com**
 
