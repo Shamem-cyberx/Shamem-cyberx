@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,This is Shamem</h1>
-<h3 align="center">Just a data wrangler, turning messy numbers into "insights"</h3>
+<h3 align="center">An AI architect, transforming complex data into actionable intelligence and innovative solutions.</h3>
 <img align="right" alt="coding" width="250" src="https://aryng.com/new-assets/images/strategic-data-science.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamem-cyberx&label=Profile%20views&color=0e75b6&style=flat" alt="shamem-cyberx" /> </p>
